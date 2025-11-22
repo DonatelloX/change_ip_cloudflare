@@ -1,0 +1,14 @@
+{
+  "cloudflare_api_token": "TOKEN_CLOUDFLARE",
+  "zone_id": "ZONE_ID_CLOUDFLARE",
+  "record_name": "RECORD_NAME",
+
+  "check_interval": 30,
+  "max_retries": 5,
+  "retry_delay": 5,
+
+  "log_level": "INFO",
+
+  "telegram_bot_token": "BOT_TOKEN_TELEGRAM",
+  "telegram_chat_ids": [123456789]
+}
